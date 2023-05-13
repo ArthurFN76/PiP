@@ -1,2 +1,2 @@
 # PiP
-Portifólio in Pcket
+Portifólio in Pocket
